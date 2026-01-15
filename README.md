@@ -87,14 +87,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Yeray's Stats" />
+  
   <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garridoparrayeray&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Garridoparrayeray&theme=tokyonight&hide_border=true&locale=en" alt="Streak" />
 </div>
 
 ---
