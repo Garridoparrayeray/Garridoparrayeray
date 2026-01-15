@@ -95,8 +95,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Garridoparrayeray&theme=tokyonight&hide_border=true&locale=en" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Garridoparrayeray&theme=tokyonight&hide_border=true&locale=en&refresh=ignored" alt="Streak" />
 </div>
-
 ---
 <p align="center">Developed with ❤️ by <a href="https://github.com/Garridoparrayeray">Yeray Garrido Parra</a></p>
