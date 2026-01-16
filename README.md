@@ -18,25 +18,25 @@
 <details>
   <summary>🇪🇸 <strong>Haz clic para ver en Español</strong></summary>
 
-  ### 🚀 Sobre mí
+  ###Sobre mí
   Soy una persona comprometida, versátil y con una actitud proactiva, en constante desarrollo personal y profesional. Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Web (Zornotza FP)**.
 
-  * 🔭 **Experiencia Real:** He trabajado administrando webs y desarrollando plugins en **WordPress/PHP** para organizaciones como Reciclanet y Glocalium.
-  * 🎓 **Formación:** Pasé por la piscina de **42 Urduliz** y completé el **primer año de desarrollo** (C, Bash, Linux). También tengo certificación de nivel 3 en Desarrollo Web.
-  * 🐧 **Entorno:** Realizo mi desarrollo completo en entorno **Linux**.
-  * ⚡ **Soft Skills:** Mi experiencia en gestión de eventos y atención al público me ha dado gran capacidad de resolución de problemas y trabajo bajo presión.
+  * **Experiencia Real:** He trabajado administrando webs y desarrollando plugins en **WordPress/PHP** para organizaciones como Reciclanet y Glocalium.
+  * **Formación:** Pasé por la piscina de **42 Urduliz** y completé el **primer año de desarrollo** (C, Bash, Linux). También tengo certificación de nivel 3 en Desarrollo Web.
+  * **Entorno:** Realizo mi desarrollo completo en entorno **Linux**.
+  * **Soft Skills:** Mi experiencia en gestión de eventos y atención al público me ha dado gran capacidad de resolución de problemas y trabajo bajo presión.
 </details>
 
 <details open>
   <summary>🇬🇧 <strong>Click to view in English</strong></summary>
 
-  ### 🚀 About Me
+  ### About Me
   I am a committed, versatile, and proactive developer, constantly focused on personal and professional growth. I am currently studying for a **Higher Technician Degree in Web Application Development (Zornotza FP)**.
 
-  * 🔭 **Real Experience:** I have worked on web administration and **WordPress/PHP** plugin development for organizations like Reciclanet and Glocalium. I am always looking for new challenges.
-  * 🎓 **Education:** I completed the "Piscine" at **42 Urduliz** and finished the **first year of the core curriculum** (C, Bash, Linux). I also hold a Level 3 Professional Certificate in Web Development.
-  * 🐧 **Environment:** I perform all my development within a **Linux** environment.
-  * ⚡ **Soft Skills:** My background in event management and customer service has equipped me with strong problem-solving skills and the ability to work well under pressure.
+  * **Real Experience:** I have worked on web administration and **WordPress/PHP** plugin development for organizations like Reciclanet and Glocalium. I am always looking for new challenges.
+  * **Education:** I completed the "Piscine" at **42 Urduliz** and finished the **first year of the core curriculum** (C, Bash, Linux). I also hold a Level 3 Professional Certificate in Web Development.
+  * **Environment:** I perform all my development within a **Linux** environment.
+  * **Soft Skills:** My background in event management and customer service has equipped me with strong problem-solving skills and the ability to work well under pressure.
 </details>
 
 ---
