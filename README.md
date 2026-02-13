@@ -18,7 +18,7 @@
 <details>
   <summary>🇪🇸 <strong>Haz clic para ver en Español</strong></summary>
 
-  ###Sobre mí
+  ### Sobre mí
   Soy una persona comprometida, versátil y con una actitud proactiva, en constante desarrollo personal y profesional. Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Web (Zornotza FP)**.
 
   * **Experiencia Real:** He trabajado administrando webs y desarrollando plugins en **WordPress/PHP** para organizaciones como Reciclanet y Glocalium.
