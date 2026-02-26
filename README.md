@@ -11,6 +11,9 @@
   <a href="mailto:garridoparrayeraytx@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://yeraygarrido.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
@@ -48,18 +51,16 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Docker-007396?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Latex-777BB4?style=for-the-badge&logo=latex&logoColor=white" alt="Latex"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
 
 ---
@@ -68,11 +69,11 @@
 
 | Project | Tech | Description |
 | :--- | :--- | :--- |
+| **[yeraygarrido.dev](https://yeraygarrido.dev)** | React 19, Vite, GSAP, Tailwind | Custom SPA portfolio. Built from scratch, near-perfect Lighthouse scores. |
+| **[Zalbi Aisia](https://github.com/Garridoparrayeray/zalbi-web-server)** | PHP 8, WordPress (_s), ACF, JS | Full freelance project: custom theme + CPTs + real-time filtering catalog. |
 | **[wp_custom_scripts](https://github.com/Garridoparrayeray/wp_custom_scripts)** | PHP, WordPress | Custom scripts for tailored software solutions (GNU license). |
 | **[ZornotzaFPJAVA](https://github.com/Garridoparrayeray/zornotzaFPJAVA)** | Java | Optimized and refactored collection of FP exercises. |
 | **[libft](https://github.com/Garridoparrayeray/libft)** | C, Makefile | My own library of standard C functions (42 Methodology). |
-| **[Reciclanet.org](https://reciclanet.org/)** | CMS, SEO | Website creation, administration, and maintenance. |
-| **[Glocalium.com](https://glocalium.com/)** | WordPress | Web development, maintenance, and server administration. |
 
 ---
 
@@ -87,13 +88,31 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Yeray's Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+
+  <!-- Stats card: cache_seconds=86400 reduces rate-limit failures on the public deployment -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&cache_seconds=86400&rank_icon=github"
+    alt="Yeray's GitHub Stats"
+    height="165"
+  />
+
+  <!-- Top languages card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
+    alt="Top Languages"
+    height="165"
+  />
+
+  <br/><br/>
+
+  <!-- Streak stats: demolab.com is more stable than the old herokuapp instance -->
+  <img
+    src="https://streak-stats.demolab.com?user=Garridoparrayeray&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
+
 </div>
 
-<br/>
 ---
-<p align="center">Developed with ❤️ by <a href="https://github.com/Garridoparrayeray">Yeray Garrido Parra</a></p>
+
+<p align="center">Developed with ❤️ by <a href="https://yeraygarrido.dev">Yeray Garrido Parra</a></p>
