@@ -89,12 +89,14 @@
 
 <div align="center">
 
-
-<img src="github-metrics.svg" alt="Estadísticas de GitHub de Yeray" />
-
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil de Yeray" />
+  
   <br/><br/>
 
-  <!-- Streak stats: demolab.com is more stable than the old herokuapp instance -->
+  <img src="profile-summary-card-output/tokyonight/1-repo-languages.svg" alt="Lenguajes de Yeray" />
+  
+  <br/><br/>
+
   <img
     src="https://streak-stats.demolab.com?user=Garridoparrayeray&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400"
     alt="GitHub Streak"
