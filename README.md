@@ -96,12 +96,8 @@
     height="165"
   />
 
-  <!-- Top languages card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86401"
-    alt="Top Languages"
-    height="165"
-  />
+  ![Yeray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&hide=contribs,prs)
+
 
   <br/><br/>
 
