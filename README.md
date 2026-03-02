@@ -89,12 +89,6 @@
 
 <div align="center">
 
-  <!-- Stats card: cache_seconds=86400 reduces rate-limit failures on the public deployment -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=86401&rank_icon=github"
-    alt="Yeray's GitHub Stats"
-    height="165"
-  />
 
   ![Yeray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&hide=contribs,prs)
 
