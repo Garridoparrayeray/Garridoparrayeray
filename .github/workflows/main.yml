@@ -1,0 +1,25 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  # Se ejecuta cada 3 horas, como querías
+  schedule:
+    - cron: "0 */3 * * *"
+  # Permite ejecutarlo manualmente
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Usa el token automático de GitHub para poder guardar las imágenes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # He puesto el tema tokyonight que ya usabas
+          THEME: tokyonight
