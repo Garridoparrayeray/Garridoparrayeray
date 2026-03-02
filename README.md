@@ -91,14 +91,14 @@
 
   <!-- Stats card: cache_seconds=86400 reduces rate-limit failures on the public deployment -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&cache_seconds=86400&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=86401&rank_icon=github"
     alt="Yeray's GitHub Stats"
     height="165"
   />
 
   <!-- Top languages card -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86401"
     alt="Top Languages"
     height="165"
   />
