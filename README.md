@@ -90,8 +90,7 @@
 <div align="center">
 
 
-  ![Yeray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&hide=contribs,prs)
-
+<img src="github-metrics.svg" alt="Estadísticas de GitHub de Yeray" />
 
   <br/><br/>
 
