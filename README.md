@@ -93,7 +93,7 @@
   
   <br/><br/>
 
-  <img src="profile-summary-card-output/tokyonight/1-repo-languages.svg" alt="Lenguajes de Yeray" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes de Yeray" />
   
   <br/><br/>
 
