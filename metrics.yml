@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Se ejecuta automáticamente cada 12 horas
+  schedule: [{cron: "0 */3 * * *"}]
+  # Te permite ejecutar la acción manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  # Se ejecuta cada vez que haces un push a la rama principal
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Usamos el token que guardaste en los secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Configuración principal
+          user: Garridoparrayeray
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_theme: tokyonight
+          config_timezone: Europe/Madrid
+          
+          # Plugin de lenguajes (equivalente a tu top-langs)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # Puedes ignorar lenguajes si quieres
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
