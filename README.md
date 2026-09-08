@@ -71,8 +71,9 @@
 | :--- | :--- | :--- |
 | **[yeraygarrido.dev](https://yeraygarrido.dev)** | React 19, Vite, GSAP, Tailwind | Custom SPA portfolio. Built from scratch, near-perfect Lighthouse scores. |
 | **[Zalbi Aisia](https://github.com/Garridoparrayeray/zalbi-web-server)** | PHP 8, WordPress (_s), ACF, JS | Full freelance project: custom theme + CPTs + real-time filtering catalog. |
+| **[BizkaiBus+ / Metro+](https://github.com/Garridoparrayeray/bizkaibus-renewed)** | PHP 8 (REST API), SQLite, Vanilla JS, Leaflet | Two real-time transit apps (Bizkaibus & Metro Bilbao) served from one codebase, built on live GTFS + SIRI open data. |
+| **[GastroAccess Euskadi](https://github.com/Garridoparrayeray/GastroAccess-Euskadi)** | React 19, TypeScript, Vite, Tailwind, Leaflet | Accessibility-first restaurant finder that scores venues (Gold/Silver/Standard) from official Basque open data. |
 | **[wp_custom_scripts](https://github.com/Garridoparrayeray/wp_custom_scripts)** | PHP, WordPress | Custom scripts for tailored software solutions (GNU license). |
-| **[ZornotzaFPJAVA](https://github.com/Garridoparrayeray/zornotzaFPJAVA)** | Java | Optimized and refactored collection of FP exercises. |
 | **[libft](https://github.com/Garridoparrayeray/libft)** | C, Makefile | My own library of standard C functions (42 Methodology). |
 
 ---
