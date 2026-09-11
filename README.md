@@ -87,7 +87,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
 
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil de Yeray" />
@@ -98,10 +97,7 @@
   
   <br/><br/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=Garridoparrayeray&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garridoparrayeray&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;cache_seconds=86400" alt="GitHub Streak" />
 
 </div>
 
