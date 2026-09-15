@@ -34,7 +34,7 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 
 <br>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <!-- Backend & Systems -->
@@ -61,17 +61,17 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
-| Project | Tech | Description |
+| Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[yeraygarrido.dev](https://yeraygarrido.dev)** | `React 19` `TypeScript` `Vite` | Custom SPA professional portfolio. Built from scratch, 100/100 Lighthouse scores, GSAP smooth scrolling (0ms TBT). |
-| **[BizkaiBus+ / Metro+](https://github.com/Garridoparrayeray/bizkaibus-renewed)** | `PHP 8` `SQLite` `Leaflet` | Two real-time transit PWAs served from one codebase. Built on live GTFS + SIRI open data with a zero-load local DB architecture. |
-| **archive.yeraygarrido.dev** | `PHP` `SQLite` `GSAP` `JS` | Custom high-performance photo gallery platform. Mobile-first "reels" experience, high-res downloads, and custom PHP backoffice. |
-| **[java-scraper](https://github.com/Garridoparrayeray/java-scraper)** | `Java` `POO` | Automated web scraper designed for data extraction, processing, and structuring from web pages. |
-| **[3_Erronka_T2](https://github.com/Garridoparrayeray/3_Erronka_T2_Txurdinaga)** | `Java` `Swing` | Desktop application built entirely in Java for automated sports league and tournament management. |
-| **[GastroAccess Euskadi](https://github.com/Garridoparrayeray/GastroAccess-Euskadi)** | `React 19` `TypeScript` `Leaflet` | Accessibility-first restaurant finder that scores venues using custom algorithms on official Basque open data. |
-| **Zalbi Aisia** | `PHP 8` `WordPress (_s)` `ACF` | Full freelance project: custom native CMS architecture + CPTs + real-time filtering catalog. |
+| **<a href="https://yeraygarrido.dev" target="_blank">yeraygarrido.dev</a>** | React 19, TypeScript, Vite | Custom SPA professional portfolio. Built from scratch, 100/100 Lighthouse scores, GSAP smooth scrolling (0ms TBT). |
+| **<a href="https://github.com/Garridoparrayeray/bizkaibus-renewed" target="_blank">BizkaiBus+ / Metro+</a>** | PHP 8, SQLite, Leaflet | Two real-time transit PWAs served from one codebase. Built on live GTFS + SIRI open data with a zero-load local DB architecture. |
+| **archive.yeraygarrido.dev** | PHP, SQLite, GSAP, JS | Custom high-performance photo gallery platform. Mobile-first "reels" experience, high-res downloads, and custom PHP backoffice. |
+| **<a href="https://github.com/Garridoparrayeray/java-scraper" target="_blank">java-scraper</a>** | Java, POO | Automated web scraper designed for data extraction, processing, and structuring from web pages. |
+| **<a href="https://github.com/Garridoparrayeray/3_Erronka_T2_Txurdinaga" target="_blank">3_Erronka_T2</a>** | Java, Swing | Desktop application built entirely in Java for automated sports league and tournament management. |
+| **<a href="https://github.com/Garridoparrayeray/GastroAccess-Euskadi" target="_blank">GastroAccess Euskadi</a>** | React 19, TypeScript, Leaflet | Accessibility-first restaurant finder that scores venues using custom algorithms on official Basque open data. |
+| **Zalbi Aisia** | PHP 8, WordPress, ACF | Full freelance project: custom native CMS architecture + CPTs + real-time filtering catalog. |
 
 ---
 
