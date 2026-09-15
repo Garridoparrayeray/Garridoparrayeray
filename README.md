@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yeray Garrido Parra 👋</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | Backend Specialist (Java/PHP) | Linux Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Linux Enthusiast</h3>
 
 <br>
 
@@ -89,12 +89,15 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Yeray's GitHub Stats" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Garridoparrayeray&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
+
+<br>
 
 <br>
 
