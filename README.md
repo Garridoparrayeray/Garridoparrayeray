@@ -9,7 +9,7 @@
 
 ### Sobre mí
 
-Soy un Ingeniero de Software enfocado en la arquitectura Backend y la optimización extrema (WPO). Huyo de las soluciones *Low-Code* y las plantillas prefabricadas; mi prioridad es construir sistemas escalables, rápidos y seguros desarrollando arquitecturas nativas y a medida. Actualmente compagino mi trabajo corporativo con el Grado Superior en Desarrollo de Aplicaciones Web (Zornotza FP, Modalidad Dual).
+Soy un Ingeniero de Software enfocado en la arquitectura Backend y la optimización. Huyo de las soluciones *Low-Code* y las plantillas prefabricadas; mi prioridad es construir sistemas escalables, rápidos y seguros desarrollando arquitecturas nativas y a medida. Actualmente compagino mi trabajo corporativo con el Grado Superior en Desarrollo de Aplicaciones Web (Zornotza FP, Modalidad Dual).
 
 -  **Experiencia Real:** Ingeniero de Software desarrollando módulos core para sistemas ERP corporativos (arquitecturas PHP multi-tenant, enrutamiento MVC propio, persistencia avanzada de datos). 
 -  **Mentalidad de Ingeniería:** Forjado en la metodología de 42 Urduliz (C, algoritmos, gestión de memoria). Acostumbrado a operar y desarrollar 100% en entornos Linux.
