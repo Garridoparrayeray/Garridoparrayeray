@@ -90,7 +90,6 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 <div align="center">
 
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil de Yeray" />
-@@ -98,10 +97,7 @@
 
   <br/><br/>
 
