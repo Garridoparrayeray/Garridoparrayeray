@@ -87,16 +87,14 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garridoparrayeray&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Yeray's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridoparrayeray&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garridoparrayeray&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil de Yeray" />
+@@ -98,10 +97,7 @@
 
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garridoparrayeray&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;cache_seconds=86400" alt="GitHub Streak" />
 <br>
 
 <br>
