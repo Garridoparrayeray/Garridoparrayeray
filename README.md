@@ -71,7 +71,7 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 | **<a href="https://github.com/Garridoparrayeray/java-scraper" target="_blank">java-scraper</a>** | Java, POO | Automated web scraper designed for data extraction, processing, and structuring from web pages. |
 | **<a href="https://github.com/Garridoparrayeray/3_Erronka_T2_Txurdinaga" target="_blank">3_Erronka_T2</a>** | Java, Swing | Desktop application built entirely in Java for automated sports league and tournament management. |
 | **<a href="https://github.com/Garridoparrayeray/GastroAccess-Euskadi" target="_blank">GastroAccess Euskadi</a>** | React 19, TypeScript, Leaflet | Accessibility-first restaurant finder that scores venues using custom algorithms on official Basque open data. |
-| **Zalbi Aisia** | PHP 8, WordPress, ACF | Full freelance project: custom native CMS architecture + CPTs + real-time filtering catalog. |
+| **zalbi.eu** | PHP 8, WordPress, ACF | Full freelance project: custom native CMS architecture + CPTs + real-time filtering catalog. |
 
 ---
 
