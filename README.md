@@ -1,5 +1,12 @@
 <div align="center">
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/yg-logo-dark.svg">
+    <img src="assets/yg-logo-light.svg" alt="YG." width="120" />
+  </picture>
+
+  <br/>
+
   <!-- Header Banner Brutalista estilo yeraygarrido.dev -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1e293b,100:0a0a0a&height=220&section=header&text=YERAY%20GARRIDO&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20LINUX&descFontSize=15&descColor=94a3b8&descAlignY=62" width="100%" alt="Yeray Garrido Parra Banner" />
 
