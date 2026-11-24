@@ -9,20 +9,20 @@
 
   <!-- Quick Action & Social Links -->
   <p align="center">
-    <a href="https://yeraygarrido.dev"><img src="https://img.shields.io/badge/PORTFOLIO-yeraygarrido.dev-0a0a0c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/yeray-garrido"><img src="https://img.shields.io/badge/LINKEDIN-yeray--garrido-0a66c2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-    <a href="mailto:garridoparrayeraytx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-garridoparrayeraytx@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://yeraygarrido.dev/papers/"><img src="https://img.shields.io/badge/RESEARCH-4_PAPERS_--_ZENODO-107EC4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo Research" /></a>
+    <a href="https://yeraygarrido.dev"><img src="assets/badges/badge-portfolio.svg" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/yeray-garrido"><img src="assets/badges/badge-linkedin.svg" alt="LinkedIn" /></a>
+    <a href="mailto:garridoparrayeraytx@gmail.com"><img src="assets/badges/badge-email.svg" alt="Email" /></a>
+    <a href="https://yeraygarrido.dev/papers/"><img src="assets/badges/badge-research.svg" alt="Zenodo Research" /></a>
   </p>
 
   <!-- Technical Identity & Status -->
   <p align="center">
-    <a href="https://cifpzornotza.eus/"><img src="https://img.shields.io/badge/DEGREE-FP_DUAL_DAW-1f2937?style=flat-square" alt="Degree" /></a>
-    <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-1f2937?style=flat-square" alt="Software Engineer" />
-    <img src="https://img.shields.io/badge/LOCATION-BILBAO,_BIZKAIA-1f2937?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/SYSTEMS-100%25_LINUX-1f2937?style=flat-square&logo=linux&logoColor=facc15" alt="Linux 100%" />
-    <img src="https://img.shields.io/badge/PHILOSOPHY-NATIVE_ARCHITECTURES-ef4444?style=flat-square" alt="Native Architectures" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-22c55e?style=flat-square" alt="Open to Collaborate" />
+    <a href="https://cifpzornotza.eus/"><img src="assets/badges/badge-degree.svg" alt="Degree" /></a>
+    <img src="assets/badges/badge-role.svg" alt="Software Engineer" />
+    <img src="assets/badges/badge-location.svg" alt="Location" />
+    <img src="assets/badges/badge-linux.svg" alt="Linux 100%" />
+    <img src="assets/badges/badge-philosophy.svg" alt="Native Architectures" />
+    <img src="assets/badges/badge-status.svg" alt="Open to Collaborate" />
   </p>
 
 </div>
@@ -79,9 +79,9 @@ In my spare time, I build open-data platforms and publish research:
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,nginx&theme=dark" alt="Backend & DB" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP_8.x-Algoritmo_ETA_Bide%2B_%C2%B7_Multi--tenant_MVC-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8" />
-  <img src="https://img.shields.io/badge/Java_21-Virtual_Threads_%C2%B7_JNI_%C2%B7_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/C-Algoritmia_%C2%B7_Gesti%C3%B3n_Memoria-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/PHP_8.x-Algoritmo_ETA_BidePlus_--_MVC-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8" />
+  <img src="https://img.shields.io/badge/Java_21-Virtual_Threads_--_JNI_--_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/C-Algoritmia_--_Gestion_Memoria-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/SQLite-Build--time_Precompiled_DB-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
@@ -90,9 +90,9 @@ In my spare time, I build open-data platforms and publish research:
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,wordpress,figma&theme=dark" alt="Frontend & CMS" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Vanilla_JS-ES6%2B_%C2%B7_Zero_Framework_DOM-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Vanilla JS" />
-  <img src="https://img.shields.io/badge/SEO_%26_GEO-Avanzado_%C2%B7_Webpositer_Certified-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO & GEO" />
-  <img src="https://img.shields.io/badge/Leaflet-Geospatial_Clustering_%26_Heatmaps-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Vanilla_JS-ES6_--_Zero_Framework_DOM-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Vanilla JS" />
+  <img src="https://img.shields.io/badge/SEO_and_GEO-Avanzado_--_Webpositer-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO & GEO" />
+  <img src="https://img.shields.io/badge/Leaflet-Geospatial_Clustering_--_Heatmaps-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/GSAP-High_Performance_Timelines-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
@@ -104,10 +104,10 @@ In my spare time, I build open-data platforms and publish research:
   <a href="https://doi.org/10.5281/zenodo.24041572"><img src="https://img.shields.io/badge/Zenodo-Open_Data_DOI_Dataset-107EC4?style=flat-square&logo=zenodo&logoColor=white" alt="Zenodo" /></a>
   <img src="https://img.shields.io/badge/Claude-AI_Assisted_Engineering-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-AI_Assisted_Engineering-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-Local_AI_%C2%B7_100%25_Private_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/RAG_&_Fine--Tuning-Custom_Vector_Retrieval-4B5563?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Ollama-Local_AI_--_Private_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/RAG_and_Fine--Tuning-Custom_Vector_Retrieval-4B5563?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Linux_Arch_%2F_Debian-Full_Development_OS-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Linux_Arch_--_Debian-Full_Development_OS-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
 
 </div>
