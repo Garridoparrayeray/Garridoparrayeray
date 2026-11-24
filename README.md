@@ -10,9 +10,9 @@
   <!-- Quick Action & Social Links -->
   <p align="center">
     <a href="https://yeraygarrido.dev"><img src="https://img.shields.io/badge/PORTFOLIO-yeraygarrido.dev-0a0a0c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/yeray-garrido"><img src="https://img.shields.io/badge/LINKEDIN-yeray--garrido-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/yeray-garrido"><img src="https://img.shields.io/badge/LINKEDIN-yeray--garrido-0a66c2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MDRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYwNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
     <a href="mailto:garridoparrayeraytx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-garridoparrayeraytx@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://yeraygarrido.dev/papers/"><img src="https://img.shields.io/badge/RESEARCH-4_PAPERS_·_ZENODO-107EC4?style=for-the-badge&logoColor=white" alt="Zenodo Research" /></a>
+    <a href="https://yeraygarrido.dev/papers/"><img src="https://img.shields.io/badge/RESEARCH-4_PAPERS_--_ZENODO-107EC4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo Research" /></a>
   </p>
 
   <!-- Technical Identity & Status -->
@@ -36,12 +36,14 @@
 
 ### Sobre mí
 
-Soy un Ingeniero de Software enfocado en la arquitectura Backend y la optimización. Huyo de las soluciones *Low-Code* y las plantillas prefabricadas; mi prioridad es construir sistemas escalables, rápidos y seguros desarrollando arquitecturas nativas y a medida. Actualmente compagino mi trabajo corporativo con el Grado Superior en Desarrollo de Aplicaciones Web (Zornotza FP, Modalidad Dual) y proyectos personales como algoritmia y apps.
+Desarrollador de software enfocado principalmente en backend y desarrollo web con código nativo (PHP, SQL, JavaScript/TypeScript, Java y C). Me gusta entender cómo funcionan los sistemas por debajo, diseñar bases de datos eficientes y escribir código limpio y mantenible sin capas innecesarias ni constructores visuales.
 
--  **Experiencia Real:** Ingeniero de Software desarrollando módulos core para sistemas ERP corporativos (arquitecturas PHP multi-tenant, enrutamiento MVC propio, persistencia avanzada de datos). 
--  **Mentalidad de Ingeniería:** Forjado en la metodología de 42 Urduliz (C, algoritmos, gestión de memoria). Acostumbrado a operar y desarrollar 100% en entornos Linux.
--  **Enfoque Full Stack:** Desde motores de cálculo y conexiones Java (JNI, Virtual Threads, Swing/JavaFX) hasta arquitecturas SPA de alto rendimiento (React 19, Vite, Tailwind, GSAP).
--  **Ecosistema Open Data:** Creador de plataformas cívicas en Euskadi consumiendo feeds en tiempo real (GTFS, SIRI-VM) cruzados con bases de datos locales (SQLite/MySQL).
+Actualmente trabajo como desarrollador de software creando módulos para un ERP corporativo (arquitectura PHP, MVC, persistencia en bases de datos relacionales), mientras curso el Grado Superior en Desarrollo de Aplicaciones Web (FP Dual, CIFP Zornotza).
+
+En mi tiempo libre desarrollo proyectos propios basados en datos abiertos:
+- **Bide+** ([bideplus.eus](https://www.bideplus.eus/)): PWA de transporte público en Euskal Herria que integra 16 redes en tiempo real y planificador de rutas en el dispositivo (RAPTOR + WebAssembly).
+- **Gasolinera+** ([gasolineraplus.app](https://gasolineraplus.app/)): Comparador de precios de carburante en tiempo real con datos oficiales de España, Portugal y Francia.
+- **Investigación abierta:** Publicación de análisis de datos, benchmarks y algoritmos en [Zenodo (CERN)](https://doi.org/10.5281/zenodo.24442212) bajo licencias abiertas CC BY 4.0.
 
 </details>
 
@@ -50,12 +52,14 @@ Soy un Ingeniero de Software enfocado en la arquitectura Backend y la optimizaci
 
 ### About Me
 
-I am a Software Engineer focused on Backend architecture and extreme performance optimization (WPO). I avoid *Low-Code* solutions and pre-built templates; my priority is to build scalable, fast, and secure systems from scratch using native architectures. I currently balance my corporate work as a developer with a Higher Degree in Web Application Development (Dual VET at Zornotza FP) alongside personal projects such as algorithms and software applications.
+Software developer focused on backend and web development using native code (PHP, SQL, JavaScript/TypeScript, Java, and C). I prioritize clean architecture, efficient data models, and maintainable software without unnecessary layers or visual page builders.
 
--  **Real Experience:** Software Engineer developing core modules for corporate ERP systems (multi-tenant PHP architectures, custom MVC routing, advanced data persistence).
--  **Engineering Mindset:** Forged in the 42 Urduliz methodology (C, algorithms, memory management). Accustomed to operating and developing 100% in Linux environments.
--  **Full Stack Approach:** From calculation engines and Java connections (JNI, Virtual Threads, Swing/JavaFX) to high-performance SPA architectures (React 19, Vite, Tailwind, GSAP).
--  **Open Data Ecosystem:** Creator of civic platforms in the Basque Country consuming real-time feeds (GTFS, SIRI-VM) merged with local databases (SQLite/MySQL).
+Currently working as a software developer building core modules for a corporate ERP system (PHP, custom MVC, relational database persistence), while completing a Higher VET degree in Web Application Development (Dual VET at CIFP Zornotza).
+
+In my spare time, I build open-data platforms and publish research:
+- **Bide+** ([bideplus.eus](https://www.bideplus.eus/)): Public transit PWA for the Basque Country covering 16 networks with real-time tracking and on-device routing (RAPTOR + WebAssembly).
+- **Gasolinera+** ([gasolineraplus.app](https://gasolineraplus.app/)): Real-time fuel price comparator powered by official government feeds from Spain, Portugal, and France.
+- **Open research:** Preprints, transit benchmarks, and algorithmic reference implementations on [Zenodo (CERN)](https://doi.org/10.5281/zenodo.24442212) under CC BY 4.0 open licenses.
 
 </details>
 
@@ -129,10 +133,10 @@ I am a Software Engineer focused on Backend architecture and extreme performance
 
 <div align="center">
 
-[![DOI: 10.5281/zenodo.24442212](https://zenodo.org/badge/DOI/10.5281/zenodo.24442212.svg)](https://doi.org/10.5281/zenodo.24442212) &nbsp;
-[![DOI: 10.5281/zenodo.24286027](https://zenodo.org/badge/DOI/10.5281/zenodo.24286027.svg)](https://doi.org/10.5281/zenodo.24286027) &nbsp;
-[![DOI: 10.5281/zenodo.24286302](https://zenodo.org/badge/DOI/10.5281/zenodo.24286302.svg)](https://doi.org/10.5281/zenodo.24286302) &nbsp;
-[![DOI: 10.5281/zenodo.24041572](https://zenodo.org/badge/DOI/10.5281/zenodo.24041572.svg)](https://doi.org/10.5281/zenodo.24041572)
+[![DOI: 10.5281/zenodo.24442212](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24442212-107EC4?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24442212) &nbsp;
+[![DOI: 10.5281/zenodo.24286027](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24286027-107EC4?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24286027) &nbsp;
+[![DOI: 10.5281/zenodo.24286302](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24286302-107EC4?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24286302) &nbsp;
+[![DOI: 10.5281/zenodo.24041572](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24041572-107EC4?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24041572)
 
 </div>
 
