@@ -1,39 +1,28 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/yg-logo-dark.svg">
-    <img src="assets/yg-logo-light.svg" alt="YG." width="120" />
-  </picture>
-
-  <br/>
-
-  <!-- Header Banner Brutalista estilo yeraygarrido.dev -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1e293b,100:0a0a0a&height=220&section=header&text=YERAY%20GARRIDO&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20LINUX&descFontSize=15&descColor=94a3b8&descAlignY=62" width="100%" alt="Yeray Garrido Parra Banner" />
+  <!-- Header Banner Oficial Horizontal -->
+  <a href="https://yeraygarrido.dev">
+    <img src="assets/yg-header-horizontal.png" width="850" alt="Yeray Garrido - Ingeniero de Software" />
+  </a>
 
   <br/><br/>
 
-  <!-- Metadata estilo "Data" -->
-  <p align="center">
-    <a href="https://cifpzornotza.eus/"><img src="https://img.shields.io/badge/DEGREE-FP%20DUAL%20DAW%20(CIFP%20ZORNOTZA)-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1f2937" alt="Degree" /></a>
-    <img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20ENGINEER-0a0a0a?style=for-the-badge&logo=serverless&logoColor=white&labelColor=1f2937" alt="Full Stack Engineer" />
-    <img src="https://img.shields.io/badge/LOCATION-BILBAO%2C%20BIZKAIA%20(SPAIN)-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1f2937" alt="Location" />
-    <a href="https://yeraygarrido.dev/papers/"><img src="https://img.shields.io/badge/RESEARCH-4%20PAPERS%20%C2%B7%20ZENODO-107EC4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo Research" /></a>
-  </p>
-
   <!-- Quick Action & Social Links -->
   <p align="center">
-    <a href="https://yeraygarrido.dev"><img src="https://img.shields.io/badge/PORTFOLIO-yeraygarrido.dev-ffffff?style=for-the-badge&logo=firefox&logoColor=black&labelColor=ffffff" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/yeray-garrido"><img src="https://img.shields.io/badge/LINKEDIN-/in/yeray--garrido-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://yeraygarrido.dev"><img src="https://img.shields.io/badge/PORTFOLIO-yeraygarrido.dev-0a0a0c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/yeray-garrido"><img src="https://img.shields.io/badge/LINKEDIN-yeray--garrido-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:garridoparrayeraytx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-garridoparrayeraytx@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://yeraygarrido.dev/cv.xml"><img src="https://img.shields.io/badge/MACHINE%20READABLE%20CV-XML%20API-10b981?style=for-the-badge&logo=xml&logoColor=white" alt="XML CV" /></a>
-    <a href="https://doi.org/10.5281/zenodo.24041572"><img src="https://img.shields.io/badge/RESEARCH%20DATA-ZENODO-0284c7?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo Record" /></a>
+    <a href="https://yeraygarrido.dev/papers/"><img src="https://img.shields.io/badge/RESEARCH-4_PAPERS_·_ZENODO-107EC4?style=for-the-badge&logoColor=white" alt="Zenodo Research" /></a>
   </p>
 
-  <!-- Status Badges -->
+  <!-- Technical Identity & Status -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-22c55e?style=flat-square&logo=git&logoColor=white" alt="Open to Collaborate" />
-    <img src="https://img.shields.io/badge/SYSTEMS-100%25%20LINUX-facc15?style=flat-square&logo=linux&logoColor=black" alt="Linux 100%" />
-    <img src="https://img.shields.io/badge/PHILOSOPHY-NATIVE%20ARCHITECTURES%20%C2%B7%20NO%20LOW--CODE-ef4444?style=flat-square" alt="No Low Code" />
+    <a href="https://cifpzornotza.eus/"><img src="https://img.shields.io/badge/DEGREE-FP_DUAL_DAW-1f2937?style=flat-square" alt="Degree" /></a>
+    <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-1f2937?style=flat-square" alt="Software Engineer" />
+    <img src="https://img.shields.io/badge/LOCATION-BILBAO,_BIZKAIA-1f2937?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/SYSTEMS-100%25_LINUX-1f2937?style=flat-square&logo=linux&logoColor=facc15" alt="Linux 100%" />
+    <img src="https://img.shields.io/badge/PHILOSOPHY-NATIVE_ARCHITECTURES-ef4444?style=flat-square" alt="Native Architectures" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-22c55e?style=flat-square" alt="Open to Collaborate" />
   </p>
 
 </div>
